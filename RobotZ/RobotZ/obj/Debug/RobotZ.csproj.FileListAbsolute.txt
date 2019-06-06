@@ -1,0 +1,7 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\obj\Debug\RobotZ.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\obj\Debug\RobotZ.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\bin\Debug\RobotZ.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\bin\Debug\RobotZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\bin\Debug\RobotZ.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\obj\Debug\RobotZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\RobotZ\RobotZ\obj\Debug\RobotZ.pdb
